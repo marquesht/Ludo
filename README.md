@@ -97,10 +97,8 @@ Todas as ações e eventos importantes durante uma partida são automaticamente 
 
 Este projeto foi desenvolvido com dedicação por:
 
-* **Matheus Filipe de Deus** - 
-[![LinkedIn Matheus](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfilipesilva/)
-* **Arthur Marques** - 
-[![LinkedIn Arthur](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-marques-b984162a9/)
+* **Matheus Filipe de Deus** - [![LinkedIn Matheus](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfilipesilva/)
+* **Arthur Marques** - [![LinkedIn Arthur](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-marques-b984162a9/)
 
 ---
 
