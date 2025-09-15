@@ -78,10 +78,9 @@ Para rodar este projeto em sua máquina:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/marquesht/NomeDoSeuRepositorioLudo.git](https://github.com/marquesht/NomeDoSeuRepositorioLudo.git)
-    cd NomeDoSeuRepositorioLudo
+    git clone [https://github.com/marquesht/Ludo.git](https://github.com/marquesht/Ludo.git)
+    cd Ludo
     ```
-    (Substitua `NomeDoSeuRepositorioLudo` pelo nome real do repositório onde está o projeto Ludo).
 2.  **Abra o Projeto:** Utilize seu IDE C# preferido (ex: Visual Studio, VS Code com C# Dev Kit).
 3.  **Compile e Execute:** Compile a solução e execute o programa diretamente do seu ambiente de desenvolvimento.
 
